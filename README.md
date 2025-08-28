@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @syedsuqlain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Mail me on syedsuqlain36@gmail.com
 
 <!---
-syedsuqlain/syedsuqlain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am making tools to make hacking easy and i wil make amazing tools for new hackers on kali/termux.
+
+mail me if you have some amazing ideas.
 --->
